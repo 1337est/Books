@@ -12,7 +12,7 @@ The Books/ directory is dedicated to housing the programming books that I am cur
 
 - **Purpose of Notes**: The `notes.md` files in each book's subdirectory serve as my personal knowledge repository. They help me track my progress, understand concepts better, and refer back to important information.
 
-- **Format of Notes**: The notes are organized into sections such as "Key Concepts", "Challenges Faced", "Code Snippets", and "Ideas for Projects". This structured format aids in quick reference and comprehension. The notes section isn't a regurgitation of the source material, but a summary in my own words to better digest and keep down the content.
+- **Format of Notes**: The notes are organized into sections such as "Key Concepts", "Challenges Faced", "Code Snippets", "Ideas for Projects", and "Thoughts". This structured format aids in quick reference and comprehension. The notes section isn't a regurgitation of the source material, but a summary in my own words to better digest and keep down the content.
 
 - **Usefulness**: Keeping detailed notes alongside the book materials enhances my learning experience by reinforcing concepts, clarifying doubts, and fostering a deeper understanding of the subject matter.
 
